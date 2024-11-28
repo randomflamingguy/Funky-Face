@@ -1,4 +1,4 @@
-import turtle
+from turtle import*
 class Face:
     def __init__(self, xpos, ypos):
         self.size = 90
